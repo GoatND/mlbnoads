@@ -1,5 +1,5 @@
 // The aria-label of the element you want to detect
-const TARGET_ARIA_LABEL = 'my-aria-label';
+const TARGET_ARIA_LABEL = 'Watch Full Screen';
 
 // Function to handle the disappearance of the element
 function onElementDisappear() {
